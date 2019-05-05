@@ -1,0 +1,23 @@
+{
+  "name": "share",
+  "version": "1.0.0",
+  "description": "查看文档 👉[文档地址](https://onlylonger.github.io/share/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onlylonger/share.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onlylonger/share/issues"
+  },
+  "homepage": "https://github.com/Onlylonger/share#readme"
+}
