@@ -21,5 +21,7 @@
 
 * [鸡汤](soup/index.md)
 
+* [模版](template/index.md)
+
 
 
